@@ -1,6 +1,6 @@
 # generals.io submission — engineering portfolio
 
-**Xincheng Zhang · Python · replay analysis · reinforcement-learning systems**
+** Python · replay analysis · reinforcement-learning systems**
 
 A project write-up and standalone replay-analysis tool from my work on a generals.bot competition agent. The broader project progressed from a CPU-only heuristic to a roughly **7.1M-parameter transformer policy** with PPO runs using **256 vectorized environments** and 512-step rollouts.
 
